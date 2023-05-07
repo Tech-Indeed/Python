@@ -1,5 +1,7 @@
 # Python
 Import all libraries as mentioned.
+
+
 (Line no-6)In url section paste the link from where you will scrape/fetch data.If you want to fetch from some other website paste their link.
 
 
